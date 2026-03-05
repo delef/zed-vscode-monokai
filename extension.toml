@@ -1,7 +1,7 @@
-id = "monokai-vs"
+id = "vs-monokai"
 name = "VSCode Monokai"
 schema_version = 1
 version = "0.1.0"
 authors = ["delef <idelef@gmail.com>"]
 description = "VSCode Monokai color theme for Zed"
-repository = "https://github.com/delef/zed-monokai"
+repository = "https://github.com/delef/vs-monokai"

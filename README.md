@@ -1,4 +1,4 @@
-# Monokai for Zed
+# VSCode Monokai for Zed
 
 A Monokai color theme for [Zed](https://zed.dev/), based on the classic VSCode Monokai theme.
 
